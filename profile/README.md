@@ -1,4 +1,4 @@
-![Deepgram full logo in red: DG Deepgram](dg-logo.png)
+![Deepgram full logo in red: DG Deepgram](.github/profile/dg-logo.png)
 
 :wave: Hey, we're Deepgram! 
 ======
