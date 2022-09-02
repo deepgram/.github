@@ -13,7 +13,7 @@ Here are some of our fav resources for getting started:
 - [Node SDK](https://github.com/deepgram/deepgram-node-sdk)
 - [.NET SDK](https://github.com/deepgram/deepgram-dotnet-sdk)
 - [Documentation](https://developers.deepgram.com/documentation/)
-- [Blogposts](https://developers.deepgram.com/blog/)
+- [Blog posts](https://developers.deepgram.com/blog/)
 
 :dark_sunglasses: Our Community
  ======
