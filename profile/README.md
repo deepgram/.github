@@ -26,7 +26,7 @@ Here are some of our fav resources for getting started:
 
 Get Started
 =====
-If you're ready to get started using Deepgram, head over to [console](https://console.deepgram.com/) to get your API key and free credits to get you started.
+If you're ready to get started using Deepgram, head over to [console](https://console.deepgram.com/signup) to get your API key and free credits to get you started.
 
 Latest Blog Posts
 =====
