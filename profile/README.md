@@ -1,4 +1,4 @@
-![Deepgram full logo: Deepgram](deepgram-wordmark-white.svg)
+![Deepgram full logo: Deepgram](/profile/deepgram-wordmark-white.svg)
 
 # 👋 Hi, we're Deepgram!
 
