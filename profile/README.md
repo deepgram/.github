@@ -1,4 +1,4 @@
-![Deepgram full logo in red: DG Deepgram](/profile/Color=black.svg)
+![Deepgram full logo in red: DG Deepgram](/profile/Color=red.svg)
 
 :wave: Hey, we're Deepgram! 
 ======
