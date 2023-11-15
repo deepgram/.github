@@ -1,4 +1,4 @@
-![Deepgram full logo: Deepgram](/profile/deepgram-wordmark-white.svg)
+![Deepgram full logo: Deepgram](deepgram-wordmark-white.svg)
 
 # 👋 Hi, we're Deepgram!
 
@@ -7,6 +7,7 @@
 
 Here are some of our favorite resources for getting started:
 - [API Playground](https://playground.deepgram.com/)
+- [Starter Apps](https://github.com/deepgram-starters)
 - [Python SDK](https://github.com/deepgram/deepgram-python-sdk)
 - [Node SDK](https://github.com/deepgram/deepgram-node-sdk)
 - [.NET SDK](https://github.com/deepgram/deepgram-dotnet-sdk)
