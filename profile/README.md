@@ -2,7 +2,7 @@
 
 # 👋 Hi, we're Deepgram!
 
-[Deepgram](https://deepgram.com/) is a foundational AI company providing the speech-to-text and language understanding capabilities you need to make your data readable and actionable by human or machines.
+[Deepgram](https://deepgram.com/) is a foundational AI company providing the speech-to-text, text-to-speech, text-to-text and language understanding capabilities you need to make your data readable and actionable by human or machines.
 # We 🤍 Developers, AI Engineers & Data Scientists
 
 Here are some of our favorite resources for getting started:
