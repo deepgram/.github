@@ -3,6 +3,7 @@
 # 👋 Hi, we're Deepgram!
 
 [Deepgram](https://deepgram.com/) is a foundational AI company providing the speech-to-text, text-to-speech, text-to-text and language understanding capabilities you need to make your data readable and actionable by human or machines.
+
 # We 🤍 Developers, AI Engineers & Data Scientists
 
 Here are some of our favorite resources for getting started:
@@ -11,6 +12,7 @@ Here are some of our favorite resources for getting started:
 - [Python SDK](https://github.com/deepgram/deepgram-python-sdk)
 - [Node SDK](https://github.com/deepgram/deepgram-node-sdk)
 - [.NET SDK](https://github.com/deepgram/deepgram-dotnet-sdk)
+- [Go SDK](https://github.com/deepgram/deepgram-go-sdk)
 - [Documentation](https://developers.deepgram.com/documentation/)
 - [Blog posts](https://deepgram.com/learn)
 
@@ -24,5 +26,5 @@ Here are some of our favorite resources for getting started:
 
 # 🚀 Get Started
 
-If you're ready to get started using Deepgram, head over to the [Deepgram Console](https://console.deepgram.com/signup) to get your free API key and free credits and  start building with our powerful transcription & speech understanding [API](https://developers.deepgram.com/reference/).
+If you're ready to get started using Deepgram, head over to the [Deepgram Console](https://console.deepgram.com/signup) to get your free API key and free credits and start building with our powerful speech, text and understanding [APIs](https://developers.deepgram.com/reference/).
 
